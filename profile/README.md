@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there battery fellows👋
+
+Welcome to the repository of BatteryBytes. We are curretly developing a lot of cool thinks, that will accelerate and improve battery research, scaling and testing.
+
+Stay tuned!
 
 <!--
 
